@@ -11370,6 +11370,31 @@ ssssssssssssso/-`      `-/osssssssssssss
         `osssssssssssssssssssso`
 EOF
         ;;
+        "AmbitionOS"*)
+            set_colors 3 1
+            read -rd '' ascii_data <<'EOF'
+${c1}                                  ..^!~ 
+${c1}                        ..:^!7Y5GB###${c2}B! 
+${c1}                   ~J5PGB#######&##${c2}GGP  
+${c1}                  :P#############${c2}GPGG!  
+${c1}                 ~55PB#########${c2}GPGGGP.  
+${c1}                !P555PB######${c2}GGGGGGB?   
+${c1}               ?P555PPPB###${c2}GPGGGGGGG.   
+${c1}             .JP55PPPPPP${c2}GPPPGGGGGGBJ    
+${c1}            :YP5PPPPPP5${c2}J77??JY5PPGB:    
+${c1}           ^5PPPPPPP5${c2}?777????JJYY?~     
+${c1}          !PPPPPPP${c2}Y?777???JJJ?!:        
+${c1}         7PPPPPP${c2}Y?777??JJ?!^.           
+${c1}        JPPPP5J${c2}777????7^.               
+${c1}      .5PPP5J${c2}77???7~:                   
+${c1}     :PGPY${c2}?77?7~:.                      
+${c1}    ~PP${c2}Y?77~:.                          
+${c1}   7P${c2}Y7!^.                              
+${c1}  ??${c2}~.                                  
+${c1} :.                                     
+
+EOF
+            ;;
 
         *)
             case $kernel_name in
