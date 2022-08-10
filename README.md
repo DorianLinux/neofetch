@@ -21,5 +21,8 @@ You can further configure Neofetch to display exactly what you want it to. Throu
 
 Neofetch supports almost 150 different operating systems. From Linux to Windows, all the way to more obscure operating systems like Minix, AIX and Haiku. If your favourite operating system is unsupported: Open up an issue and support will be added.
 
+## Why use this fork?
+
+Honestly it's just to add this distro's logo without interfering with the main fork. That's all lol
 
 ### More: \[[Dependencies](https://github.com/dylanaraps/neofetch/wiki/Dependencies)\] \[[Installation](https://github.com/dylanaraps/neofetch/wiki/Installation)\] \[[Wiki](https://github.com/dylanaraps/neofetch/wiki)\]
